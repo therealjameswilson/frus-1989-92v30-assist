@@ -92,6 +92,14 @@
       "category": "Official FOIA PDF",
       "use": "Primary source PDF; page links point to physical PDF pages.",
       "status": "Released"
+    },
+    {
+      "id": "source-foia-M-2014-23169-C09000015",
+      "label": "October 30, 2026 State FOIA release — C09000015 (case M-2014-23169)",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000015/C09000015.pdf",
+      "category": "Official FOIA PDF",
+      "use": "Cross-volume source for migration and cooperative economic development; physical PDF pages are linked.",
+      "status": "Released"
     }
   ],
   "document_candidates": [
@@ -189,6 +197,76 @@
         {
           "page": 5,
           "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706307 Date: 03/09/2015\n\n                                     MR-2014-23169    B-00001366512      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n      FOR ANY OTHER REGION. (LATIN AMERICA SHOULD ALSO\n      CONTINUE AS A SIGNIFICANT U.S. BANKING CUSTOMER, NOT AT\n      THE ARTIFICIALLY HIGH LEVELS OF THE 1970'S, WHEN\n      COMMERCIAL BANKS FRANTICALLY RECYCLED PETRODOLLARS, BUT\n      AT A LEVEL HIGH ENOUGH TO BOLSTER PERFORMANCE OF SEVERAL\n      KEY U.S. MONEY CENTER BANKS.)\n\n         16. HISTORICALLY, LATIN AMERICA HAS BEEN OUR LARGEST\n      CUSTOMER. TODAY LATIN AMERICA'S 435 MILLION CONSUMERS\n     DWARF EASTERN EUROPE'S 113 MILLION: U.S. EXPORTS TO\n      EASTERN EUROPE IN 1988 TOTALLED US$876 MILLION, ABOUT TWO\n      PERCENT OF THE US$43 BILLION WE SOLD TO LATIN AMERICA\n      THAT YEAR. BOOK VALUE OF U.S. INVESTMENT IN LATIN AMERICA\n        IN 1988 TOTALLED US$49 BILLION.\n\n         17. FREE GOVERNMENT IS NEARLY ACHIEVED FROM THE ARCTIC\n      TO PATAGONIA. NOW WE SHOULD OPEN OUR MARKETS TO THE\n       LATINS, IF THEY WILL OPEN THEIRS TO US. TOGETHER WE CAN\n      CREATE JOBS AND PROSPERITY FOR ALL AMERICANS. THESE\n      ECONOMIC GOALS ARE EVIDENTLY BASIC TO SOCIAL AND POLITICAL\n       STABILITY IN OUR HEMISPHERE.\n\n         18. U.S. COMMITMENT TO THE GOAL OF A FREE TRADE AREA\n      ACROSS THE AMERICAS WOULD SIGNAL OUR LASTING INTEREST IN\n      THE HEMISPHERE. IT WOULD ALSO GIVE THE LATINS WHAT THEY\n      HAVE OFTEN SAID THEY WANTED: TREATMENT AS EQUALS AND A\n      CHANCE FOR A MORE PROSPEROUS TOMORROW. TAYLOR\n\n\n\n\n\n       CONFIDENTIAL\n\n\n\n\n\n      NNNN\n\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706307 Date: 03/09/2015"
+        }
+      ]
+    },
+    {
+      "id": "foia-2026-10-M-2014-23169-C09000015",
+      "title": "FOLLOW-UP VISIT BY COMMISSION FOR THE STUDY OF INTERNATIONAL MIGRATION AND COOPERATIVE ECONOMIC DEVELOPMENT (CSIMCED)",
+      "repository": "U.S. Department of State FOIA Library",
+      "sourceLead": "source-foia-M-2014-23169-C09000015",
+      "date": "1990-04-24",
+      "status": "Reviewable cross-volume lead; compiler selection pending",
+      "action": "Cross-volume lead for Foreign Economic Policy: the commission mission directly examined international migration and cooperative economic development; its trade, investment and development discussion complements the Caribbean placement in Volume XXII.",
+      "caseNumber": "M-2014-23169",
+      "documentId": "C09000015",
+      "collection": "FOIA_M_Oct2026_3",
+      "postedDate": "2026-10-30",
+      "releaseBatch": "2026-10-30",
+      "reportingDateNote": "Report date: April 24, 1990. The Commission’s visit ran April 16–19.",
+      "documentType": "Telegram",
+      "sender": "Embassy Santo Domingo",
+      "messageNumber": "1990 SANTO 004729",
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000015/C09000015.pdf",
+      "pageCount": 5,
+      "pageLinks": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000015/C09000015.pdf#page=1"
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000015/C09000015.pdf#page=2"
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000015/C09000015.pdf#page=3"
+        },
+        {
+          "page": 4,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000015/C09000015.pdf#page=4"
+        },
+        {
+          "page": 5,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000015/C09000015.pdf#page=5"
+        }
+      ],
+      "copyCitation": "U.S. Department of State, Embassy Santo Domingo, telegram 1990 SANTO 004729, “FOLLOW-UP VISIT BY COMMISSION FOR THE STUDY OF INTERNATIONAL MIGRATION AND COOPERATIVE ECONOMIC DEVELOPMENT (CSIMCED),” 1990-04-24, FOIA Library, case M-2014-23169, document C09000015, source PDF, pp. 1–5.",
+      "summary": "A Commission for the Study of International Migration and Cooperative Economic Development delegation visited the Dominican Republic, met Balaguer and Vice President Morales, and discussed Haitian migration, trade, investment, and development.",
+      "relevance": "The cable concerns a U.S.-supported commission's international migration and cooperative economic development mission, including trade, investment, development assistance and migration. It is already included as a Caribbean/Haiti lead in 1989–1992 Volume XXII; this separate Volume XXX entry provides a foreign-economic-policy cross-reference by exact official source URL.",
+      "textStatus": "Searchable embedded PDF text; not independently checked against the facsimile.",
+      "textNotice": "Search text may contain source OCR or local OCR errors. Blank, redacted, illegible, non-English, and handwriting content may not be searchable. No text was inferred or reconstructed from redactions. Page numbers are physical PDF pages, not printed page labels.",
+      "selectionDecision": "Pending compiler review; this cross-volume citation is a research lead, not a final FRUS selection.",
+      "searchableText": [
+        {
+          "page": 1,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706276 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382107      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n       UNCLASSIFIED\n\n      PAGE 01   SANTO 04729 01 OF 02 242031Z                    RELEASED IN FULL\n      ACTION ARA-01\n\n       INFO LOG-00 ADS-00  AID-01  INR-05  CIAE-00 EB-01  DODE-00\n          H-01  EXIM-06 NSAE-00 COME-00 SSO-01 LAB-04 CTME-00\n          TRSE-00 ITC-01  OPIC-08 PA-02  OMB-01 STR-18  INRE-00\n          FRB-01 RP-10  USIE-00 JUSE-00 SP-01  SR-01  C-01\n           E-01   /065 W\n                            276166 242135Z /61\n     O 242014Z APR 90\n      FM AMEMBASSY SANTO DOMINGO\n      TO SECSTATE WASHDC IMMEDIATE 7307\n       INFO AMEMBASSY CARACAS\n      AMEMBASSY SAN SALVADOR\n      AMEMBASSY PORT AU PRINCE\n\n      UNCLAS SECTION 01 OF 02 SANTO DOMINGO 04729\n\n        E.O. 12356: N/A\n       TAGS: ECON, CMGT, PREL, PREF, OTRA, DR\n       SUBJECT: FOLLOW-UP VISIT BY COMMISSION FOR THE STUDY\n      OF INTERNATIONAL MIGRATION AND COOPERATIVE ECONOMIC\n      DEVELOPMENT (CSIMCED)\n\n       REFS: A) SANTO DOMINGO 1206  B) STATE 30745\n\n          1. SUMMARY: COMMISSION CHAIRMAN DIEGO ASENCIO AND\n      COMMISSIONER THEODORE E. MCCARRICK (ARCHBISHOP OF\n      NEWARK), ACCOMPANIED BY STAFFERS ARTHUR P. ENDRES AND\n      SERGIO DIAZ-BRIQUETS ARRIVED SANTO DOMINGO APRIL 16.\n      ACCOMPANIED BY AMBASSADOR AND CONGEN, THEY CALLED ON\n      PRESIDENT JOAQUIN BALAGUER, AND ON VICE PRESIDENT\n      CARLOS MORALES TRONCOSO. AT BOTH CALLS THEY PRESENTED\n      COPIES OF THE COMMISSION'S DRAFT REPORT, AND ENCOURAGED\n     GODR COMMENT AND INPUT. INDIVIDUAL TEAM MEMBERS ALSO\n       VISITED A SUGAR OPERATION, FREE TRADE ZONE, A POTENTIAL\n      SECTION 936 PROJECT AND A TYPICAL TOURIST OPERATION.\n      THE VISIT CONCLUDED WITH A DINNER HOSTED BY THE\n       UNCLASSIFIED\n\n       UNCLASSIFIED\n\n      PAGE 02   SANTO 04729 01 OF 02 242031Z\n\n      AMERICAN CHAMBER OF COMMERCE BOARD OF DIRECTORS ON\n       APRIL 18. END SUMMARY.\n\n          2. ARCHBISHOP THEODORE E. MCCARRICK, A RELATIVELY NEW\n      COMMISSION MEMBER, ARRIVED MONDAY AFTERNOON, APRIL 16,\n      ACCOMPANIED BY COMMISSION GENERAL COUNSEL ARTHUR P.\n      ENDRES. AMBASSADOR DIEGO ASENCIO AND COMMISSION\n      RESEARCH DIRECTOR SERGIO DIAZ-BRIQUETS ARRIVED LATER\n      THAT EVENING.\n\n                                      REVIEW AUTHORITY:  Charles Daris, Senior Reviewer\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706276 Date: 11/22/2017"
+        },
+        {
+          "page": 2,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706276 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382107      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n          3. ON TUESDAY, APRIL 17, FOLLOWING A RESTRICTED\n      COUNTRY TEAM BRIEFING, COMMISSION MEMBERS, ACCOMPANIED\n      BY THE ECONOMIC COUNSELOR ROBERT SMOLIK, CALLED ON\n       OFFICIALS AT THE CHASE MANHATTAN BANK TO DISCUSS\n       POTENTIAL INVESTMENT AND DEVELOPMENT UNDER SECTION\n        936. AT NOON, THE GROUP, ACCOMPANIED BY THE AMBASSADOR\n      AND THE CONSUL GENERAL, CALLED ON VICE PRESIDENT CARLOS\n      MORALES, A PERSONAL ACQUAINTANCE OF ARCHBISHOP\n      MCCARRICK. THE COMMISSION OUTLINED THE BASIC\n      RECOMMENDATIONS IT WAS PROPOSING AND LEFT A COPY OF THE\n      REPORT WITH THE VICE PRESIDENT. AMBASSADOR ASENCIO\n      ASKED FOR A STATEMENT FROM THE GODR BY MAY 15\n      ENDORSING, IF POSSIBLE, THE COMMISSION'S REPORT OR\n      PROVIDING OTHER COMMENT ON ITS CONTENTS.\n\n          4. LATER THAT DAY, THE GROUP, ACCOMPANIED BY THE\n      EMBASSY REFUGEE OFFICER, CALLED ON AMBASSADOR PICHARDO\n      AT THE FOREIGN SECRETARIAT TO DISCUSS HAITIAN MIGRATION\n       ISSUES.\n\n          5. THE FOLLOWING DAY, APRIL 18, ARCHBISHOP MCCARRICK\n      AND MR. DIAZ-BRIQUETS VISITED THE LA ROMANA FREE TRADE\n      ZONE AND SUGAR MILL, ACCOMPANIED BY AN EMBASSY ECON\n       UNCLASSIFIED\n\n       UNCLASSIFIED\n\n      PAGE 03   SANTO 04729 01 OF 02 242031Z\n\n       OFFICER. MR. ARTHUR P. ENDRES, ACCOMPANIED BY THE ECON\n      SENIOR FSN, VISITED THE WESTINGHOUSE INVESTMENT AT\n       HAINA, WHILE THE CONSUL GENERAL ACCOMPANIED AMBASSADOR\n      ASENCIO TO THE TALANQUERA TOURIST RESORT AT JUAN\n       DOLIO.\n\n         6. THE GROUP RETURNED ABRUPTLY TO THE CAPITAL FOR A\n      RE-SCHEDULED MEETING WITH PRESIDENT JOAQUIN BALAGUER.\n      AS HAD BEEN DONE THE PREVIOUS DAY WITH VICE PRESIDENT\n      MORALES, THE COMMISSION CHAIRMAN PRESENTED THE\n      PRESIDENT WITH THE DRAFT REPORT, AND EMPHASIZED THE\n       COMMISSION'S MANDATE TO CONSULT, AND ITS DESIRE FOR\n     COMMENT AND INPUT FROM CONCERNED GOVERNMENTS. CHAIRMAN\n      ASENCIO HIGHLIGHTED THE REPORT'S MAJOR RECOMMENDATIONS,\n      WITH THE EMPHASIS ON TRADE, PARTICULARLY THE\n      ESTABLISHMENT OF A FREE TRADE ZONE WITH MEXICO;\n      ENHANCEDCBI; A RE-ENERGIZED CARICOM AND OTHER TRADE\n        INITIATIVES. HE REITERATED THE COMMISSION'S PREMISE\n      THAT ONLY TRADE DEVELOPMENT CAN ULTIMATELY RAISE THE\n      STANDARD OF LIVING IN THE AREA TO THE POINT THAT\n       ILLEGAL IMMIGRATION PUSH FACTORS ARE ELIMINATED OR\n      SHARPLY REDUCED.\n\n          7. THE PRESIDENT CONCURRED GENERALLY WITH THESE\n      COMMENTS, AND INDICATED HE WOULD ATTEMPT TO HAVE A GODR\n      RESPONSE TO THE REPORT BY THE MAY 15 DEADLINE FACED BY\n      THE COMMISSION.\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706276 Date: 11/22/2017"
+        },
+        {
+          "page": 3,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706276 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382107      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n\n          8. FOLLOWING THE MEETING WITH THE PRESIDENT, THE GROUP\n      MET THE LOCAL PRESS WHICH RESULTED IN EXTENSIVE,\n      STRAIGHTFORWARD REPORTING ON THE VISIT.\n\n          9. THEY SUBSEQUENTLY JOINED THE CONSUL GENERAL AND THE\n      FOUR CONSULAR UNIT CHIEFS FOR A WORKING LUNCH AT THE\n      CONSULATE, WHERE A WIDE RANGE OF IMMIGRATION ISSUES AND\n      RECOMMENDATIONS WERE DISCUSSED. LATER THAT SAME\n       UNCLASSIFIED\n\n       UNCLASSIFIED\n\n      PAGE 04   SANTO 04729 01 OF 02 242031Z\n\n\n\n\n\n       UNCLASSIFIED\n\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706276 Date: 11/22/2017"
+        },
+        {
+          "page": 4,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706276 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382107      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n\n\n      NNNN\n\n       UNCLASSIFIED\n\n      PAGE 01   SANTO 04729 02 OF 02 242014Z\n      ACTION ARA-01\n\n       INFO LOG-00 ADS-00  AID-01  INR-05  CIAE-00 EB-01  DODE-00\n          H-01  EXIM-06 NSAE-00 COME-00 SSO-01 LAB-04 CTME-00\n          TRSE-00 ITC-01  OPIC-08 PA-02  OMB-01 STR-18  INRE-00\n          FRB-01 RP-10  USIE-00 JUSE-00 SP-01  SR-01  C-01\n           E-01   /065 W\n                            275346 242135Z /61\n     O 242014Z APR 90\n      FM AMEMBASSY SANTO DOMINGO\n      TO SECSTATE WASHDC IMMEDIATE 7308\n       INFO AMEMBASSY CARACAS\n      AMEMBASSY SAN SALVADOR\n      AMEMBASSY PORT AU PRINCE\n\n      UNCLAS SECTION 02 OF 02 SANTO DOMINGO 04729\n\n        E.O. 12356: N/A\n       TAGS: ECON, CMGT, PREL, PREF, OTRA, DR\n       SUBJECT: FOLLOW-UP VISIT BY COMMISSION FOR THE STUDY\n\n      AFTERNOON, THE TWO STAFF MEMBERS VISITED A\n      RECENTLY-COMPLETED TOURIST HOTEL, WHILE THE ARCHBISHOP\n      MET WITH THE PAPAL NUNCIO.\n\n         10. THE VISIT WAS CAPPED BY A DINNER IN HONOR OF THE\n      COMMISSION HOSTED BY THE BOARD OF DIRECTORS OF THE\n      AMERICAN CHAMBER OF COMMERCE, WHICH INCLUDED THE\n      AMBASSADOR AND SENIOR EMBASSY OFFICIALS. DURING THE\n      DINNER CHAIRMAN ASENCIO AGAIN OUTLINED THE FINDINGS AND\n      RECOMMENDATIONS OF THE COMMISSION, AND THE CHAMBER\n      MEMBERS PRESENT AGREED TO SUPPORT THE COMMISSION'S\n      REPORT IN WHATEVER WAY FEASIBLE, INCLUDING HAVING IT\n      PLACED ON THE AGENDA OF THE NEXT AMERICAN CHAMBERS OF\n     COMMERCE OF LATIN AMERICA (ACLA) MEETING.\n\n         11. THE GROUP DEPARTED THE D.R. EARLY ON THURSDAY,\n       UNCLASSIFIED\n\n       UNCLASSIFIED\n\n      PAGE 02   SANTO 04729 02 OF 02 242014Z\n\n       APRIL 19. TAYLOR\n\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706276 Date: 11/22/2017"
+        },
+        {
+          "page": 5,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706276 Date: 11/22/2017\n\nMR-2014-23169 B-00001382107 “UNCLASSIFIED” 9/25/2026\n\nUNCLASSIFIED\n\nNNNN\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706276 Date: 11/22/2017"
         }
       ]
     }
